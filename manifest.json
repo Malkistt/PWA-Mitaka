@@ -7,17 +7,17 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "image/icon/Ct-72x72.png",
+      "src": "image/Icon/Ct-72x72.png",
       "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "image/icon/Ct-192x192.png",
+      "src": "image/Icon/Ct-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "image/icon/Ct-512x512.png",
+      "src": "image/Icon/Ct-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -36,3 +36,4 @@
     }
   ]
 }
+
