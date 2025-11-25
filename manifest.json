@@ -1,0 +1,38 @@
+{
+  "name": "Mitaka Store",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "cyan",
+  "theme_color": "cyan",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "image/icon/Ct-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "image/icon/Ct-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "image/icon/Ct-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "image/SS/screenshot-desktop.png",
+      "sizes": "2527x1285",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "image/SS/screenshot-mobile.png",
+      "sizes": "459x1024",
+      "type": "image/png"
+    }
+  ]
+}
